@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+toolBar {
+  position: relative;
+  z-index: 7;
+  float: left;
+  display: inline-block;
+  padding: 8px 2px;
+  background: #f8f8f8;
+}
+
+headerSearch {
+    background: #3c7bbe;
+    padding: 15px 0 18px 0;
+}
