@@ -1,9 +1,9 @@
 # Dictionary App
 
-Simple implemetation of Dictionary app.
+Simple implementation of Dictionary app.
 Front end - ReactJS 
-Back end  - REST apis created using Node
-- Covers all the simple concepts of React
+Back end  - REST apis created using NodeJS
+- Covers all the simple concepts and some key designs of React.
 
 # TODO
 
